@@ -10,5 +10,7 @@
     <string name="go_ubiquitous">Go Ubiquitous</string>
     <string name="capstone">Capstone</string>
     <string name="title">My Nanodegree Apps!</string>
-    <string name="this_app_will_launch">This app will launch my %1$s app!</string>
+    <string name="this_app_will_launch">This button will launch my \"%1$s\" app!</string>
+    <string name="email_me">This button will be used for my email!</string>
+    <string name="ok">Ok</string>
 </resources>
