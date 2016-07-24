@@ -13,4 +13,20 @@
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="Main.Text" parent="android:TextAppearance">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineSpacingExtra">5dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Main.Button" parent="Base.Widget.AppCompat.Button">
+        <item name="android:padding">20dp</item>
+        <item name="android:background">@color/colorButtonDark</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:textSize">13sp</item>
+    </style>
 </resources>

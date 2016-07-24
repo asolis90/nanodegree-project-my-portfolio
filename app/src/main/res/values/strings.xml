@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">My Portfolio</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="popular_movies">Popular Movies</string>
+    <string name="stock_hawk">Stock Hawk</string>
+    <string name="build_it_bigger">Build it Bigger</string>
+    <string name="make_your_app_material">Make Your App Material</string>
+    <string name="go_ubiquitous">Go Ubiquitous</string>
+    <string name="capstone">Capstone</string>
+    <string name="title">My Nanodegree Apps!</string>
+    <string name="this_app_will_launch">This app will launch my %1$s app!</string>
 </resources>
